@@ -1,8 +1,0 @@
-Create user:
-https://law-oauth.herokuapp.com/create
-
-OAuth token:
-https://law-oauth.herokuapp.com/oauth/token
-
-OAuth resource:
-https://law-oauth.herokuapp.com/oauth/resource
