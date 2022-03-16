@@ -1,0 +1,1 @@
+Jika ingin running di local, gunakan docker compose
